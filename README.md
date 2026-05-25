@@ -1,5 +1,6 @@
-# devops-agent-test
-Simple calculator with intentional bugs for testing.
+# DevOps Agent Test Repository
+
+  This is a test repository for validating teh DevOps Agent.
 
 ## Features
   - Simple calculator functions
