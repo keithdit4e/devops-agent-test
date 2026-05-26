@@ -1,6 +1,6 @@
 # DevOps Agent Test Repository
 
-  This is a test repository for validating teh DevOps Agent.
+  This is a test repository for validating the DevOps Agent.
 
 ## Features
   - Simple calculator functions
