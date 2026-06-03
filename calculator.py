@@ -10,7 +10,8 @@ def subtract(a, b):
 
 def multiply(a, b):
     """Multiply two numbers."""
-    result = a * b  # BUG: Missing return statement
+    result = a * b
+    return result
 
 def divide(a, b):
     """Divide a by b."""
