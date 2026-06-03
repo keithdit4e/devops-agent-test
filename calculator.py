@@ -14,7 +14,9 @@ def multiply(a, b):
 
 def divide(a, b):
     """Divide a by b."""
-    return a / b  # BUG: No zero division check
+    if b == 0:
+        raise ValueError("Cannot divide by zero")
+    return a / b
 
 def greet(name):
     """Greet someone by name."""
